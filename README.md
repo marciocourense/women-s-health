@@ -1,7 +1,4 @@
-# women-s-health
-
-
-
+# women-s-health Competition (from Gate's foundation)
 
 # Import library nnet. 
 # Please keep in mind, when you implement your model in Azure ML, you need to also import this library in your Execute R Script module.
